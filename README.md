@@ -1,2 +1,2 @@
-# jdk7
-使用jdk的api使用验证练习
+# exercise-jdk7
+使用jdk的api验证练习
